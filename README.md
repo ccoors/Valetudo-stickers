@@ -19,3 +19,46 @@ Source: https://github.com/Hypfer/Valetudo/blob/master/frontend/src/map/MapLayer
 ```
 ./make_stickers.sh
 ```
+
+
+## Stickers
+
+![Alligator](stickers_512/alligator.png)
+
+![Bat](stickers_512/bat.png)
+
+![Dgi sad](stickers_512/dgi_sad.png)
+
+![Dog Hendrik](stickers_512/dog_hendrik.png)
+
+![Dog largs](stickers_512/dog_large.png)
+
+![Dog realistic](stickers_512/dog_realistic.png)
+
+![Dog small](stickers_512/dog_small.png)
+
+![Dolphin](stickers_512/dolphin.png)
+
+![Fish](stickers_512/fish.png)
+
+![Frog](stickers_512/frog.png)
+
+![Ghost](stickers_512/ghost.png)
+
+![Green face](stickers_512/green_face.png)
+
+![Look left](stickers_512/look_left.png)
+
+![Meh down](stickers_512/meh_down.png)
+
+![O face](stickers_512/o_face.png)
+
+![Orange dog](stickers_512/orange_dog.png)
+
+![Qbert](stickers_512/qbert.png)
+
+![Rhino](stickers_512/rhino.png)
+
+![Sleepy rhino](stickers_512/sleepy_rhino.png)
+
+![Two legs](stickers_512/two_legs.png)
