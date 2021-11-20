@@ -20,6 +20,9 @@ Source: https://github.com/Hypfer/Valetudo/blob/master/frontend/src/map/MapLayer
 ./make_stickers.sh
 ```
 
+### Generate SVGs
+
+https://codepen.io/shshaw/pen/XbxvNj
 
 ## Stickers
 
