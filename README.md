@@ -32,6 +32,8 @@ https://codepen.io/shshaw/pen/XbxvNj
 
 ![Dgi sad](stickers_512/dgi_sad.png)
 
+![Dgi](stickers_512/dgi.png)
+
 ![Dog Hendrik](stickers_512/dog_hendrik.png)
 
 ![Dog largs](stickers_512/dog_large.png)
