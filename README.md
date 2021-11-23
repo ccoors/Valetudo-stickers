@@ -52,6 +52,8 @@ https://codepen.io/shshaw/pen/XbxvNj
 
 ![Green face](stickers_512/green_face.png)
 
+![Helmet](stickers_512/helmet.png)
+
 ![Look left](stickers_512/look_left.png)
 
 ![Meh down](stickers_512/meh_down.png)
