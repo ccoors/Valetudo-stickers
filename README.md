@@ -34,6 +34,8 @@ https://codepen.io/shshaw/pen/XbxvNj
 
 ![Dgi](stickers_512/dgi.png)
 
+![Dinosaur](stickers_512/dinosaur.png)
+
 ![Dog Hendrik](stickers_512/dog_hendrik.png)
 
 ![Dog largs](stickers_512/dog_large.png)
@@ -48,6 +50,8 @@ https://codepen.io/shshaw/pen/XbxvNj
 
 ![Frog](stickers_512/frog.png)
 
+![Frog 2](stickers_512/frog_2.png)
+
 ![Ghost](stickers_512/ghost.png)
 
 ![Green face](stickers_512/green_face.png)
@@ -57,6 +61,8 @@ https://codepen.io/shshaw/pen/XbxvNj
 ![Look left](stickers_512/look_left.png)
 
 ![Meh down](stickers_512/meh_down.png)
+
+![Moose](stickers_512/moose.png)
 
 ![O face](stickers_512/o_face.png)
 
@@ -68,4 +74,8 @@ https://codepen.io/shshaw/pen/XbxvNj
 
 ![Sleepy rhino](stickers_512/sleepy_rhino.png)
 
+![T-Rex](stickers_512/t_rex.png)
+
 ![Two legs](stickers_512/two_legs.png)
+
+![Worried](stickers_512/worried.png)
